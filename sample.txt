@@ -1,3 +1,4 @@
 This is text doc
-File is updated.
+creating conflicts
+File is getting updated. and trying to merge with main 
 new line
