@@ -1,4 +1,4 @@
 This is text doc
-creating conflicts
+creating branch1 conflicts
 File is getting updated. and trying to merge with main 
-new line
+new line is added in branch1
