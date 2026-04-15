@@ -2,3 +2,6 @@ This is text doc
 creating branch1 conflicts
 File is getting updated. and trying to merge with main 
 new line is added in branch1
+File is getting updated. And this is second line
+This is third line
+new line
