@@ -1,5 +1,6 @@
 This is the text file
-["Here I am modyfying the same ine] having some text
+Second line added in main
+["Here I am modyfying the same ine]. Here I have changed the line in main and went to 3rd line having some text.
 New line encountered
 some other text
 New line
