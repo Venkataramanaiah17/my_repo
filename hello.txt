@@ -1,7 +1,4 @@
 This is the text file
-["Here I am modyfying the same ine]. Now here same line changed having some text
-New line encountered
-some other text
 New line
 new line
 new line at line number 7
