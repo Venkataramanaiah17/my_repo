@@ -1,6 +1,8 @@
 This is the text file
-having some text
+["Here I am modyfying the same ine] having some text
+New line encountered
 some other text
 New line
 new line
 new line at line number 7
+new line at line 8
