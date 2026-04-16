@@ -3,3 +3,4 @@ having some text
 some other text
 New line
 new line
+new line at line number 7
